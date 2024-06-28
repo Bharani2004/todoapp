@@ -11,10 +11,10 @@ Features:
 API Endpoints
 - The application interacts with a backend API for persistent storage. The following endpoints are used:
 
-GET /api/todo - Fetch all tasks
-POST /api/todo - Add a new task
-PATCH /api/todo/:id - Update a task
-DELETE /api/todo/:id - Delete a task
+- GET /api/todo - Fetch all tasks
+- POST /api/todo - Add a new task
+- PATCH /api/todo/:id - Update a task
+- DELETE /api/todo/:id - Delete a task
 
 Languages Used
 - React
