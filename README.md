@@ -1,4 +1,4 @@
-TODO Application
+TODO Application Bharani Kumar (21MIS0110)
 - This is a simple TODO application built with React. It allows users to add, edit, and delete tasks, as well as mark tasks as done. Each task can have a title and a description.
 
 Features:
